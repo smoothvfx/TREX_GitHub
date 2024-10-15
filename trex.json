@@ -1,0 +1,35 @@
+
+
+{ "env": [
+	
+	{
+		"TREX" : "S:/TREX/TREX_GitHub"
+	}
+
+	{
+		"PROJ": "TREX"
+	},
+	{
+		"USDLIB": "usdlib"
+	}
+]
+}
+
+
+{
+
+	"hpath": "N:/TREX/pipeline/houdini/otls",
+}
+
+{
+    "globals": {
+        "project_name": "TREX",
+        "forcefps": false,
+        "fps": 25.0,
+        "forceResolution": false,
+        "resolution": [
+            2048,
+            1152
+        ],
+
+}
